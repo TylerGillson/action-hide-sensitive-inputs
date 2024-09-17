@@ -1,4 +1,4 @@
-name: 'Hide sensitive inputs'
+name: 'Hide sensitive inputs (tg fork)'
 description: 'Hide the values of your GitHub Action workflow inputs'
 inputs:
   exclude_inputs: 
